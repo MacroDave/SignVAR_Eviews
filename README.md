@@ -1,5 +1,5 @@
 # SignVAR_Eviews
-Sign Restrictions in Eviews
+Sign Restricted VAR in Eviews
 
 Sign Restricted VAR in Eviews
 The first code I have uploaded here is a series of eviews programs and subroutines that allows you to estimate a VAR model with identification using sign restrictions. If you unzip the file you should be able to run the codes directly from the folder (at least in theory). There is a fairly general template (run_sr.prg) which you can use to play around with the settings.
